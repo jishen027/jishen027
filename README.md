@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Jeb Lee, and I am a software engineer. I am currently working at [Tencent](https://www.tencent.com/en-us) as a backend engineer. I am interested in distributed system, cloud native, and kubernetes. I am also a contributor of [TiDB]() and [TiKV]().
+I'am Jeb Lee, and I am a software developer. I am currently working at [Tencent](https://www.tencent.com/en-us) as a backend engineer. I am interested in distributed system, cloud native, and kubernetes.
 
 <!-- github stats: -->
 
@@ -13,6 +13,14 @@ I'am Jeb Lee, and I am a software engineer. I am currently working at [Tencent](
 
 ### Contact Me
 - Email: jishen027@gmail.com
+- Linkedin: https://www.linkedin.com/in/jeblee
+
+### My Blog
+- https://jishen027.github.io
+
+### Certifications
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JebLee/foundational-c-sharp-with-microsoft)
+
 <!--
 **jishen027/jishen027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
