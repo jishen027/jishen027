@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Jeb Lee, and I am a software developer. I am currently working at [Tencent](https://www.tencent.com/en-us) as a backend engineer. I am interested in distributed system, cloud native, and kubernetes.
+I'am Jeb Lee, and I am a software developer. I am interested in distributed system, cloud native, and kubernetes.
 
 <!-- github stats: -->
 
