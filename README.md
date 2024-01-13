@@ -16,7 +16,7 @@ I'am Jeb Lee, and I am a software developer. I am interested in distributed syst
 - Linkedin: https://www.linkedin.com/in/jeblee
 
 ### My Blog
-- https://jishen027.github.io
+- [https://jishen027.github.io](https://www.promptnotfound.com/)
 
 ### Certifications
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JebLee/foundational-c-sharp-with-microsoft)
