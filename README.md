@@ -21,6 +21,9 @@ I'am Jeb Lee, and I am a software developer. I am interested in distributed syst
 ### Certifications
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JebLee/foundational-c-sharp-with-microsoft)
 
+## contribution
+![Jeb Lee's contribution](https://activity-graph.herokuapp.com/graph?username=jishen027&theme=react-dark&hide_border=true&area=true)
+
 <!--
 **jishen027/jishen027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
