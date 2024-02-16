@@ -19,17 +19,12 @@ I'am Jeb Lee, and I am a software developer. I am interested in distributed syst
 
 ### My Website
 
-#### My Portfolio
 
-- [https://jishen027.github.io/3d_portfolio](https://jishen027.github.io/3d_portfolio)
+- [My Portfolio](https://jishen027.github.io/3d_portfolio)
 
-#### PromptNotFound
+- [PromptNotFound](https://www.promptnotfound.com/)
 
-- [https://www.promptnotfound.com](https://www.promptnotfound.com/)
-
-#### Jeb's Notes
-
-- [https://jishen027.github.io/my-notes/](https://jishen027.github.io/my-notes/)
+- [My Notes](https://jishen027.github.io/my-notes/)
 
 ### Certifications
 
