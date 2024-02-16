@@ -17,7 +17,7 @@ I'am Jeb Lee, and I am a software developer. I am interested in distributed syst
 - Email: jishen027@gmail.com
 - Linkedin: https://www.linkedin.com/in/jeblee
 
-### My Website
+### Websites
 
 
 - [My Portfolio](https://jishen027.github.io/3d_portfolio)
