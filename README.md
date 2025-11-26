@@ -24,7 +24,7 @@ I'am Jeb Lee, and I am a software developer. I am interested in distributed syst
 
 - [PromptNotFound](https://www.promptnotfound.com/)
 
-- [Evently](https://evently-gold-tau.vercel.app)
+- [Hiragi Exam master](https://master.d2drupl36mk7bs.amplifyapp.com/)
 
 - [My Notes](https://jishen027.github.io/my-notes/)
 
