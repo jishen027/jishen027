@@ -22,9 +22,9 @@ I'am Jeb Lee, and I am a software developer. I am interested in distributed syst
 
 - [My Portfolio](https://jishen027.github.io/3d_portfolio)
 
-- [PromptNotFound](https://www.promptnotfound.com/)
+- [PromptNotFound](https://www.promptnotfound.com)
 
-- [Hiragi Exam master](https://master.d2drupl36mk7bs.amplifyapp.com/)
+- [Hiiragi Exam master](https://hiiragiexam.promptnotfound.com)
 
 - [My Notes](https://jishen027.github.io/my-notes/)
 
