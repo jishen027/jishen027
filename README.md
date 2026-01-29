@@ -4,13 +4,6 @@ I'am Jeb Lee, and I am a software developer. I am interested in distributed syst
 
 <!-- github stats: -->
 
-### Github Stats
-
-![Jeb Lee's github stats](https://github-readme-stats.vercel.app/api?username=jishen027&show_icons=true&theme=radical)
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jishen027&layout=compact&theme=radical)
 
 ### Contact Me
 
