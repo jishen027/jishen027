@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Jeb Lee, and I am a software developer. I am interested in distributed system, cloud native, and kubernetes.
+I'am Jeb Lee, and I am a Full-Stack software developer. I am interested in distributed systems, cloud native, and agentic AI development.
 
 <!-- github stats: -->
 
