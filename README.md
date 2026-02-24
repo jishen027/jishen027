@@ -17,7 +17,7 @@ I'am Jeb Lee, and I am a Full-Stack software developer. I am interested in distr
 
 - [PromptNotFound](https://www.promptnotfound.com)
 
-- [Hiiragi Exam master](https://hiiragiexam.promptnotfound.com)
+- [Hiiragi Exam master](https://hiiragiexam.com)
 
 - [My Notes](https://jishen027.github.io/my-notes/)
 
