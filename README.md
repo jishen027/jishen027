@@ -20,7 +20,7 @@ I'am Jeb Lee, and I am a Full-Stack software developer. I am interested in distr
 - [Hiiragi Exam](https://hiiragiexam.com)
 
 - [My Notes](https://jishen027.github.io/my-notes/)
-- 
+  
 - [AI Todo](https://todo.promptnotfound.com)
 
 ### Certifications
