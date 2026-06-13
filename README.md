@@ -15,11 +15,9 @@ I'am Jeb Lee, and I am a Full-Stack software developer. I am interested in distr
 
 - [My Portfolio](https://jishen027.github.io/3d_portfolio)
 
-- [PromptNotFound](https://www.promptnotfound.com)
-
 - [Hiiragi Exam](https://hiiragiexam.com)
 
-- [My Notes](https://jishen027.github.io/my-notes/)
+- [PromptNotFound](https://www.promptnotfound.com)
   
 - [AI Todo](https://todo.promptnotfound.com)
 
