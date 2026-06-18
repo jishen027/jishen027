@@ -6,8 +6,6 @@ I'am Jeb Lee, and I am a Full-Stack software developer. I am interested in distr
 
 
 ### Contact Me
-
-- Email: jishen027@gmail.com
 - Linkedin: https://www.linkedin.com/in/jeblee
 
 ### Websites
