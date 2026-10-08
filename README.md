@@ -36,5 +36,5 @@ I'm **Jeb Lee**, a Cloud App Developer in Sheffield, UK. I build cloud-native sy
 
 ## Certifications
 
-- AWS Certified AI Practitioner (AIF-C01)
+- [AWS Certified AI Practitioner (AIF-C01)](https://www.credly.com/badges/21bb5991-2f1d-4340-8f31-58948d19af62/linked_in_profile)
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JebLee/foundational-c-sharp-with-microsoft)
